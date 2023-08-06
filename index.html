@@ -5,23 +5,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="style.css" />
     <script src="script.js" defer></script>
-    <title>Todo List App</title>
+    <title>Todo List</title>
   </head>
   <body>
-    <div class="header">Todo List App</div>
-    <div class="container">
-      <p class="title">Todo App</p>
-      <div class="menu"></div>
-      <ol>
-        <li>Lista jest pusta<span class="menu-icon">⋮</span></li>
-        <li>Lista jest pusta2<span class="menu-icon">⋮</span></li>
-      </ol>
-
-      <div class="menu-show">
-        <ul class="menu-show-option">
-            <li class="edit">Edit</li>
-            <li class="delete">Delete</li>
-        </ul>
+    <div class="header">
+      <div class="header-colors">
+        <div class="color-circle white-mode"></div>
+        <div class="color-circle dark-mode"></div>
+      </div>
+    </div>
+    <div class="main">
+      <div class="title-container">
+        <div class="title">Todo List by Adrian Jankowicz</div>
+        <div class="cursor"></div>
+      </div>
+      <div class="input-container">
+        <input type="text" class='input' maxlength="50" placeholder="Add what you have to do" />
+        <button type="button" class="btn-add">Add task</button>
+      </div>
+      <div class="timer"></div>
+      <div class="tasks-container">
+        <ol>
+        </ol>
       </div>
     </div>
   </body>
