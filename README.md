@@ -1,4 +1,4 @@
-#Todo List
+# Todo List
 
 ## English below
 
@@ -34,7 +34,7 @@ Pull requesty są mile widziane. W przypadku większych zmian otwórz najpierw z
 
 
 
-# English
+## English
 
 ## Description
 
