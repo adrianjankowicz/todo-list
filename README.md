@@ -24,15 +24,6 @@ Aby zainstalować i uruchomić ten projekt, po prostu sklonuj to repozytorium i 
 4. Kliknij przycisk z symbolem kosza, aby usunąć zadanie z listy.
 5. Użyj kolorowego kółka w nagłówku, aby przełączyć pomiędzy trybem jasnym i ciemnym.
 
-## Współpraca
-
-Pull requesty są mile widziane. W przypadku większych zmian otwórz najpierw zgłoszenie, aby omówić, co chciałbyś zmienić.
-
-## Licencja
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
 
 ## English
 
@@ -58,11 +49,6 @@ To install and run this project, simply clone this repository and open `index.ht
 4. Click on the delete button to remove the task from the list.
 5. Use the color circle in the header to switch between light and dark mode.
 
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
